@@ -1,0 +1,1491 @@
+REB = {
+	pattern = "pattern_diagonal_split_01.tga"
+	color1 = "phrygia_red"
+	color2 = "pitch_black"
+}
+
+BAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_black"
+	color2 = "phrygia_red"
+
+	textured_emblem = {
+		texture = "te_skull_goat.dds"
+	}
+}
+
+MER = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_black"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_mercenary.dds"
+	}
+}
+
+PIR = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_pirates.dds"
+		color1 = "bone_white"
+		color2 = "ck2_green"
+	}
+}
+
+ATH = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "ck2_black"
+
+	textured_emblem = {
+		texture = "te_ATH.dds"
+	}
+}
+
+PR2 = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "ck2_green"
+
+	textured_emblem = {
+		texture = "te_PER_qajar.dds"
+	}
+}
+
+LSB = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_LSB.dds"
+	}
+}
+
+KRN = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "green"
+
+	textured_emblem = {
+		texture = "te_KRN.dds"
+	}
+}
+
+NSQ = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_NSQ.dds"
+	}
+}
+
+MCK = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_MCK.dds"
+	}
+}
+
+HAI = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_HAI.dds"
+	}
+}
+
+PUY = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_PUY.dds"
+	}
+}
+
+CMC = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_CMC.dds"
+	}
+}
+
+LKU = {
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_LKU.dds"
+	}
+}
+
+EIC = {
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_EIC_GBR.dds"
+	}
+}
+
+BIH = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_BIH.dds"
+	}
+}
+
+PAT = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_green"
+
+	textured_emblem = {
+		texture = "te_PAT.dds"
+	}
+}
+
+AWA = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_AWA.dds"
+	}
+}
+
+KHA = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "ck2_blue"
+
+	textured_emblem = {
+		texture = "te_KHA.dds"
+	}
+}
+
+JHN = {
+	pattern = "pattern_solid.tga"
+	color1 = "samnite_red"
+	color2 = "samnite_red"
+
+	textured_emblem = {
+		texture = "te_JHN.dds"
+	}
+}
+
+GUJ = {
+	pattern = "pattern_horizontal_stripes_01.tga"
+	color1 = "ck2_red"
+	color2 = "roman_gold"
+
+}
+
+GWA = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_red"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_GWA.dds"
+	}
+
+}
+
+TJR = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_red"
+	color2 = "phrygia_yellow"
+
+	textured_emblem = {
+		texture = "te_TJR.dds"
+	}
+
+}
+
+KOL = {
+	pattern = "pattern_solid.tga"
+	color1 = "bharatavarsha_orange_color"
+	color2 = "pitch_black"
+
+	textured_emblem = {
+		texture = "te_KOL.dds"
+	}
+
+}
+
+JMK = {
+	pattern = "pattern_solid.tga"
+	color1 = "bharatavarsha_orange_color"
+	color2 = "pure_white"
+
+}
+
+VID = {
+	pattern = "pattern_solid.tga"
+	color1 = "bharatavarsha_orange_color"
+	color2 = "bharatavarsha_orange_color"
+
+	textured_emblem = {
+		texture = "te_VID.dds"
+	}
+
+}
+
+RMD = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "phrygia_red"
+
+}
+
+RMH = {
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_RMH.dds"
+	}
+}
+
+JAI = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_JAI.dds"
+	}
+}
+
+SND = {
+	pattern = "pattern_solid.tga"
+	color1 = "dark_green"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_SND.dds"
+	}
+}
+
+MAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "bharatavarsha_orange_color"
+
+	textured_emblem = {
+		texture = "te_MAR.dds"
+	}
+}
+
+RTL = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "dark_green"
+	color2 = "syracuse_yellow"
+
+}
+
+BIK = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "roman_red"
+	color2 = "bharatavarsha_orange_color"
+
+}
+
+CHP = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "galatia_light_blue_color"
+	color2 = "pure_white"
+
+}
+
+DHA = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "spartan_rust"
+	color2 = "roman_gold"
+
+}
+
+NAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+
+}
+
+TRV = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_TRV.dds"
+	}
+}
+
+HYD = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_HYD.dds"
+	}
+}
+
+YAK = {
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "ck2_blue"
+
+	textured_emblem = {
+		texture = "te_YAK.dds"
+	}
+}
+
+MRT = {
+	pattern = "pattern_solid.tga"
+	color1 = "bharatavarsha_orange_color"
+	color2 = "roman_gold"
+}
+
+COO = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_black"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_COO.dds"
+	}
+}
+
+MSS = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "ck2_blue"
+
+	textured_emblem = {
+		texture = "te_MSS.dds"
+	}
+}
+
+BRD = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_BRD.dds"
+	}
+}
+
+KTC = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_KTC.dds"
+	}
+}
+
+KHL = {
+	pattern = "pattern_solid.tga"
+	color1 = "bharatavarsha_orange_color"
+	color2 = "etruscan_blue"
+
+	textured_emblem = {
+		texture = "te_KHL.dds"
+	}
+}
+
+KAL = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "dark_green"
+
+	textured_emblem = {
+		texture = "te_KAL.dds"
+	}
+}
+
+BWP = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_BWP.dds"
+	}
+}
+
+KHV = {
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "ck2_blue"
+
+	textured_emblem = {
+		texture = "te_KHV.dds"
+	}
+}
+
+BUK = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_BUK.dds"
+	}
+}
+
+KOK = {
+	pattern = "pattern_solid.tga"
+	color1 = "green"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_KOK.dds"
+	}
+}
+
+LDK = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_LDK.dds"
+	}
+}
+
+MYS = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "samnite_red"
+	color2 = "maurya_brown"
+}
+
+INR = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_red"
+	color2 = "pure_white"
+}
+
+REW = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "sun_yellow"
+	color2 = "green"
+}
+
+ORC = {
+	pattern = "pattern_diagonal_line_fat_02.tga"
+	color1 = "sun_yellow"
+	color2 = "pitch_black"
+}
+
+AFG = { # Early Afghan flag
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "dark_green"
+	color2 = "pure_white"
+	color3 = "dark_green"
+}
+
+BHO = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "ck2_black"
+	color2 = "pure_white"
+	color3 = "green"
+}
+
+BNR = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "roman_red"
+	color2 = "pitch_black"
+	color3 = "roman_red"
+}
+
+KHR = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "roman_red"
+	color2 = "ck2_yellow"
+	color3 = "pure_white"
+}
+
+VNZ = { # Early Venezuelan flag
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "ck2_yellow"
+	color2 = "ck2_blue"
+	color3 = "phrygia_red"
+}
+
+NGR = { # New Granadan flag under Spain
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "ck2_blue"
+
+	textured_emblem = {
+		texture = "te_NGR_SPA.dds"
+	}
+}
+
+CAN = { # New Granadan flag under Spain
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_CAN_EARLY.dds"
+	}
+}
+
+QTO = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_QTO.dds"
+	}
+}
+
+CHL = {
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_CHL.dds"
+	}
+}
+
+AR1 = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "te_LA_PLATA.dds"
+	}
+}
+
+BRZ = { # Flag of the united kingdom of Brazil and Portugal
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "ck2_green"
+
+	textured_emblem = {
+		texture = "te_BRZ_UK.dds"
+	}
+}
+
+PR1 = { #Flag of Spanish Peru
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_PER_SPA.dds"
+	}
+}
+
+ABU = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "phrygia_red"
+
+}
+
+DUB = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_DUB.dds"
+	}
+}
+
+KRA = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = "pure_white"
+}
+
+MNS = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "ck2_black"
+
+	textured_emblem = {
+		texture = "te_MNS.dds"
+	}
+}
+
+CIL = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+
+	textured_emblem = {
+		texture = "te_CIL_TURKISH.dds"
+	}
+}
+
+LHJ = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_LHJ.dds"
+	}
+}
+
+DHN ={
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "ck2_green"
+	color2 = "bharatavarsha_orange_color"
+}
+
+WHD = {
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_red"
+	color2 = "ck2_green"
+
+	textured_emblem = {
+		texture = "te_WHD.dds"
+	}
+}
+
+QSM = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
+
+NSW = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_NSW.dds"
+	}
+}
+
+FRA = {
+	pattern = "pattern_tricolor_vertical_01.tga"
+	color1 = "etruscan_blue"
+	color2 = "pure_white"
+	color3 = "roman_red"
+}
+
+GBR = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_GBR.dds"
+	}
+}
+
+RUS = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "pitch_black"
+	color2 = "roman_gold"
+	color3 = "pure_white"
+}
+
+USA = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_USA.dds"
+	}
+}
+
+MEX = {
+	pattern = "pattern_tricolor_vertical_01.tga"
+	color1 = "dark_green"
+	color2 = "pure_white"
+	color3 = "roman_red"
+}
+
+SPA = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_yellow"
+	color2 = "ck2_yellow"
+	textured_emblem = {
+		texture = "te_SPA.dds"
+	}
+}
+
+CHI = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_yellow"
+	color2 = "ck2_yellow"
+	textured_emblem = {
+		texture = "te_QING.dds"
+	}
+}
+
+AUS = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "pitch_black"
+	color2 = "ck2_yellow"
+}
+
+TUR = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_OTTOMAN_EARLY.dds"
+	}
+}
+
+ANH = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "roman_red"
+	color2 = "ck2_green"
+	color3 = "pure_white"	
+}
+
+BAD = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "roman_gold"
+	color2 = "roman_red"
+	color3 = "roman_gold"	
+}
+
+BAV = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_BAV_LOZENGES.dds"
+	}
+}
+
+BRG = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "judea_blue"
+	color2 = "roman_gold"
+}
+
+BRE ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_BRE.dds"
+	}
+}
+
+HAM ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_HAM.dds"
+	}
+}
+
+HAN ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_HAN_UK_UNION.dds"
+	}
+}
+
+HSD ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_HSD.dds"
+	}
+}
+
+HSK = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+}
+
+MKS = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "etruscan_blue"
+	color2 = "roman_gold"
+	color3 = "roman_red"
+	textured_emblem = {
+		texture = "te_MKS.dds"
+	}	
+}
+
+MKZ = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "etruscan_blue"
+	color2 = "roman_gold"
+	color3 = "roman_red"	
+}
+
+NAS = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "spartan_rust"
+	color2 = "ocean_blue"
+	color3 = "spartan_rust"
+}
+
+OLD = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_OLD.dds"
+	}
+}
+
+PRU = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_PRU_EARLY.dds"
+	}
+}
+
+HZS = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "pure_white"
+
+	textured_emblem = {
+		texture = "te_HZS.dds"
+	}
+}
+
+SXC = {
+	pattern = "pattern_horizontal_stripes_01.tga"
+	color1 = "ck2_green"
+	color2 = "pure_white"
+}
+
+SXM = {
+	pattern = "pattern_horizontal_stripes_01.tga"
+	color1 = "ck2_green"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_SXM.dds"
+	}
+}
+
+SAX = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_green"
+	color2 = "pure_white"
+}
+
+WDK = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "pitch_black"
+	color2 = "roman_red"
+	color3 = "roman_gold"
+}
+
+WUR = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "pitch_black"
+	color2 = "phrygia_red"
+}
+
+SRS = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = "pure_white"
+}
+
+NED = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "phrygia_red"
+	color2 = "pure_white"
+	color3 = "ck2_blue"
+}
+
+SWM = {
+	pattern = "pattern_tricolor_horizontal_01.tga"
+	color1 = "pitch_black"
+	color2 = "ck2_green"
+	color3 = "roman_gold"
+}
+
+FRK ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_FRK.dds"
+	}
+}
+
+SWI ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_SWI.dds"
+	}
+}
+
+SAR ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_SAR.dds"
+	}
+}
+
+PRM ={ # Habsburg flag of Parma
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+}
+
+MOD ={ # Habsburg flag of Modena
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_MOD_HABSBURG.dds"
+	}
+}
+
+LUC ={ # Flag before coat of arms was added in 1818
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "roman_red"
+}
+
+TUS ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_TUS_EARLY.dds"
+	}
+}
+
+PAP ={
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "pure_white"
+}
+
+SSL ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_SSL.dds"
+	}
+}
+
+POL ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_POL_CONGRESS.dds"
+	}
+}
+
+POR ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_POR_EARLY.dds"
+	}
+}
+
+LBG = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "pitch_black"
+	color2 = "ck2_yellow"
+}
+
+HOL ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_HOL.dds"
+	}
+}
+
+LIE = { #Early flag
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "roman_red"
+}
+
+SHL = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_yellow"
+}
+
+DEN ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_DEN.dds"
+	}
+}
+
+SWE ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_yellow"
+	textured_emblem = {
+		texture = "te_SWE.dds"
+	}
+}
+
+NOR ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_NOR.dds"
+	}
+}
+
+MOL ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_MOL_EARLY.dds"
+	}
+}
+
+WAL ={
+	pattern = "pattern_solid.tga"
+	color1 = "ocean_blue"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_WAL_EARLY.dds"
+	}
+}
+
+SRB ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_SRB_EARLY.dds"
+	}
+}
+
+ION ={
+	pattern = "pattern_solid.tga"
+	color1 = "ocean_blue"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_ION_GBR.dds"
+	}
+}
+
+MNR ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_MNR_EARLY.dds"
+	}
+}
+
+MNR ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_MNR_EARLY.dds"
+	}
+}
+
+LUX ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_LUX_EARLY.dds"
+	}
+}
+
+DRY ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_DRY.dds"
+	}
+}
+
+ALG ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_ALG_EARLY.dds"
+	}
+}
+
+EGY ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_EGY_EARLY.dds"
+	}
+}
+
+MOR ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_MOR_EARLY.dds"
+	}
+}
+
+TRI ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_TRI.dds"
+	}
+}
+
+BUR ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_BUR.dds"
+	}
+}
+
+BRU ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+}
+
+SLU ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_purple"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_SLU.dds"
+	}
+}
+
+LAF ={
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_LAF.dds"
+	}
+}
+
+SIA ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_SIA.dds"
+	}
+}
+
+KDH ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
+
+VIE ={
+	pattern = "pattern_circle_02.dds"
+	color1 = "roman_gold"
+	color2 = "roman_red"
+}
+
+STL ={ # Identical to KDH... 
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
+
+
+CPK ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_CPK.dds"
+	}
+}
+
+CBI ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+	textured_emblem = {
+		texture = "te_CBI.dds"
+	}
+}
+
+LWU ={ 
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+}
+
+BJR ={ 
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "pitch_black"
+}
+
+RYU ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_RYU.dds"
+	}
+} 
+
+MSC ={ 
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
+
+OMA ={
+	pattern = "pattern_solid.tga"
+	color1 = "pure_white"
+	color2 = "pure_white"
+	textured_emblem = {
+		texture = "te_OMA.dds"
+	}
+} 
+
+TKG ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_purple"
+	color2 = "roman_gold"
+	textured_emblem = {
+		texture = "te_TKG.dds"
+	}
+} 
+
+SHZ ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_SHZ.dds"
+	}
+} 
+
+DTE ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+	textured_emblem = {
+		texture = "te_DTE.dds"
+	}
+} 
+
+SGA ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+	textured_emblem = {
+		texture = "te_SGA.dds"
+	}
+} 
+
+MED ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+	textured_emblem = {
+		texture = "te_MED.dds"
+	}
+} 
+
+NMB = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+	textured_emblem = {
+		texture = "te_NMB.dds"
+	}
+} 
+
+
+ASN = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+	textured_emblem = {
+		texture = "te_ASN.dds"
+	}
+} 
+
+MAE ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+	textured_emblem = {
+		texture = "te_MAE.dds"
+	}
+} 
+
+SAM ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+}
+
+HJI ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+	textured_emblem = {
+		texture = "te_HJI.dds"
+	}
+} 
+
+AZU ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_AZU.dds"
+	}
+} 
+
+CSU ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_gold"
+	color2 = "roman_gold"
+	textured_emblem = {
+		texture = "te_CSU.dds"
+	}
+} 
+
+ECH ={
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_blue"
+	textured_emblem = {
+		texture = "te_ECH.dds"
+	}
+} 
+
+TGU ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_TGU.dds"
+	}
+} 
+
+SNI ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_SNI.dds"
+	}
+} 
+
+MLK ={
+	pattern = "pattern_solid.tga"
+	color1 = "phrygia_yellow"
+	color2 = "phrygia_yellow"
+	textured_emblem = {
+		texture = "te_MLK.dds"
+	}
+} 
+
+OGD ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+} 
+
+SNR ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_SNR.dds"
+	}
+} 
+
+MDB ={
+	pattern = "pattern_solid.tga"
+	color1 = "bone_white"
+	color2 = "bone_white"
+	textured_emblem = {
+		texture = "te_MDB.dds"
+	}
+} 
+
+KWT ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
+
+ASA ={
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_red"
+}
